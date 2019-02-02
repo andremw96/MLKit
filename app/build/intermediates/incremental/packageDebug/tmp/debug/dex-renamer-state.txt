@@ -1,0 +1,4 @@
+#Sat Dec 15 15:10:45 ICT 2018
+base.0=D\:\\Android\\Recognize Text, facial features, object in images with ML Kit for Firebase\\mlkit-android-master\\final\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
